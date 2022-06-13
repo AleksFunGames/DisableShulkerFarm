@@ -1,0 +1,6 @@
+name: DisableShulkerFarm
+version: '${project.version}'
+main: antidot.disableshulkerfarm.disableshulkerfarm
+api-version: 1.18
+authors: [ AntidotAleks ]
+description: Disables Shulker Farm
